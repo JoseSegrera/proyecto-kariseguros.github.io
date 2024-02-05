@@ -528,13 +528,11 @@ iframe{
     height: 100%;
     padding: 20px 30px;
     gap: 20px;
-    background-color: red;
 }
 .container-empresa{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: yellow;
 }
 .container-empresaII{
     margin: 0 20px;
